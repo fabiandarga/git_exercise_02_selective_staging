@@ -1,6 +1,6 @@
 # Aufgabe 02- init, stage, commit, repeat...
 
-1. Kopiere den ganzen Ordner exercise_01_basics in dein Übungsordner
+1. Erstelle einen Ordner exercise_02_selective_staging in dein Übungsordner
 
 2. Erstelle ein Git-Reposiroy in dem Ordner
 
